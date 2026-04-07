@@ -1,0 +1,17 @@
+# Video files (too large)
+*.MP4
+*.mp4
+*.mov
+
+# Confidential - contains real names
+analysis/00_anonymization_key.md
+
+# Background document
+Chinatown AR design background.txt
+
+# System
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc

@@ -1,0 +1,164 @@
+Category,Sub-category,Code,Representative Quote,Participant(s)
+1. Interaction & Gesture,1.1 Gesture Intuitiveness,Pinch gesture feels natural,"""once you tell me how to interact... it all falls in place kind of naturally""",P01
+1. Interaction & Gesture,1.1 Gesture Intuitiveness,Gesture registers well,"""gestures register really well""",P01
+1. Interaction & Gesture,1.1 Gesture Intuitiveness,Gesture controls intuitive and simple,"""I really liked the gesture controls... very simple and intuitive""",P04
+1. Interaction & Gesture,1.1 Gesture Intuitiveness,Screenshot gesture recognized from Mac,"""I like the connection... very similar to like on the Mac""",G2a
+1. Interaction & Gesture,1.1 Gesture Intuitiveness,Pinch motion intuitive,"""I feel like this motion is very intuitive""",G2a
+1. Interaction & Gesture,1.1 Gesture Intuitiveness,Pinch-and-zoom as familiar,"""how you pinch and zoom, how you pinch a button""",P01
+1. Interaction & Gesture,1.2 Gesture Difficulties,Photo capture inconsistency,"""sometimes it didn't register as consistently as I hoped for""",P01
+1. Interaction & Gesture,1.2 Gesture Difficulties,Photo capture buggy,"""I was trying to take some pictures... maybe a little bit buggy""",P02
+1. Interaction & Gesture,1.2 Gesture Difficulties,Capture requires repeated attempts,"""it is kind of difficult to use... I have to repeat it for several times""",P11
+1. Interaction & Gesture,1.2 Gesture Difficulties,Lack of capture feedback,"""I wasn't sure if it was working or doing anything... I would do the motion and then wait a few seconds""",P06
+1. Interaction & Gesture,1.2 Gesture Difficulties,Need feedback after photo,"""maybe add some trying to feedback after you take the picture""",P06
+1. Interaction & Gesture,1.2 Gesture Difficulties,Third-hand interference from staff,"""when your hand appears, it will be directly positioned on the third hand""",P14
+1. Interaction & Gesture,1.2 Gesture Difficulties,Two-handed gesture awkward with card,"""it's really awkward to be holding something and also trying to do two-handed gestures""",P03
+1. Interaction & Gesture,1.2 Gesture Difficulties,3D model renders behind photo,"""the 3D model that's supposed to form formed actually behind the picture""",P10
+1. Interaction & Gesture,1.2 Gesture Difficulties,Item pop up behind photo,"""the item pop up behind the photo""",P16
+1. Interaction & Gesture,1.3 Object Placement,Couldn't place object on card,"""I grabbed and then I couldn't place it on the card""",P13
+1. Interaction & Gesture,1.3 Object Placement,Throwing away image feels complex,"""after that I need to throw away the image... this process is kind of complicated""",P11
+2. Navigation & Wayfinding,2.1 Light Beam Navigation,Light beam not visible/unreliable,"""I saw it like once but for a second""",G2a
+2. Navigation & Wayfinding,2.1 Light Beam Navigation,Yellow lines didn't appear,"""the yellow lines also did not appear for me until I was actually looking right where they were supposed to be""",P13
+2. Navigation & Wayfinding,2.1 Light Beam Navigation,Direction finding not accurate,"""nowadays it's just a light in front of you... that's not very accurate""",P05
+2. Navigation & Wayfinding,2.1 Light Beam Navigation,Light column thrown off,"""the light columns could be... it's all like thrown off a little bit""",P08
+2. Navigation & Wayfinding,2.2 Alternative Navigation Ideas,Warmer/cooler system,"""almost like a warmer, cooler type of situation... green you're in the right direction, red you're going the wrong direction""",G2a
+2. Navigation & Wayfinding,2.2 Alternative Navigation Ideas,Digital landmark for orientation,"""cool maybe having like a digital landmark so you could orient yourself on the map""",G2a
+2. Navigation & Wayfinding,2.2 Alternative Navigation Ideas,Floating character guide,"""a floating dumpling... follow this little guy""",Team (in G2 discussion)
+2. Navigation & Wayfinding,2.2 Alternative Navigation Ideas,Sound-based navigation,"""incorporate sound... the sound effect would capture""",G1b
+2. Navigation & Wayfinding,2.2 Alternative Navigation Ideas,Voice hints,"""adding voice hints""",G1a
+2. Navigation & Wayfinding,2.2 Alternative Navigation Ideas,Heat map instead of pointer,"""maybe a heap map instead""",G2a
+2. Navigation & Wayfinding,2.3 Clue/Hint System,Clues too vague/tricky,"""a couple of the clues were a little bit tricky""",P06
+2. Navigation & Wayfinding,2.3 Clue/Hint System,Didn't know how to find next one,"""I didn't know how to find the next one""",P14
+2. Navigation & Wayfinding,2.3 Clue/Hint System,Progressive hint system desired,"""start with a broad hint... get a better hint to get you to the next level""",P08
+2. Navigation & Wayfinding,2.3 Clue/Hint System,Time-based hint reveal,"""after three minutes it gives you the next hint""",P08
+2. Navigation & Wayfinding,2.3 Clue/Hint System,"Phone a friend" hint mechanic,"""like phone a friend""",G2a
+2. Navigation & Wayfinding,2.3 Clue/Hint System,Objects too far/high to scan,"""some of the objects might be too far... image quality wasn't high enough for a far away object""",P04
+2. Navigation & Wayfinding,2.3 Clue/Hint System,Hard to find high-up objects,"""it's hard to find... you have to raise your head""",P14
+2. Navigation & Wayfinding,2.3 Clue/Hint System,Game order confusion,"""from mailbox to ATM... the game tells me it's already over... the order seems to be a little bit not exact""",P02
+2. Navigation & Wayfinding,2.3 Clue/Hint System,Game order mismatch,"""the third, however, in our game order is fourth""",P05
+3. Onboarding & Instructions,3.1 Insufficient Instructions,Confusion at start,"""I was a little confused. I didn't know what the process was""",P14
+3. Onboarding & Instructions,3.1 Insufficient Instructions,Took 5-10 min to get it,"""it took me five, ten minutes to finally get it""",P17
+3. Onboarding & Instructions,3.1 Insufficient Instructions,Need more app instructions,"""maybe a little more instructions from the app itself, instead of relying on a human volunteer""",P01
+3. Onboarding & Instructions,3.1 Insufficient Instructions,Self-explanatory system needed,"""we can make it like self-explanatory so user can explore and enjoy on their own""",P15
+3. Onboarding & Instructions,3.1 Insufficient Instructions,No instruction then told what to do,"""No instruction, then tell me what to do""",P14
+3. Onboarding & Instructions,3.2 Onboarding Ideas,Video tutorial before starting,"""people in line can see the video... the user can call back again""",P14
+3. Onboarding & Instructions,3.2 Onboarding Ideas,Printed instructions,"""if you have something printed, or show it on some pictures, it will be more convenient""",P14
+3. Onboarding & Instructions,3.2 Onboarding Ideas,5-minute training session,"""before they actually get the goggles, there's like a little five minute training and then the tour starts""",G2a
+3. Onboarding & Instructions,3.2 Onboarding Ideas,Old video game analogy,"""even from the 80s... push the button three times... something very simple""",G2a
+3. Onboarding & Instructions,3.2 Onboarding Ideas,First walkthrough as training,"""that first walkthrough was good enough where I feel very comfortable doing it again""",P16
+4. Hardware & Comfort,4.1 Weight & Fit,Too heavy / ears hurt,"""it is too heavy for me to wear it... makes my ears hurt""",P11
+4. Hardware & Comfort,4.1 Weight & Fit,Tight on head,"""the glass is a little tight on the head, maybe it could be a little wider""",P01
+4. Hardware & Comfort,4.1 Weight & Fit,Acceptable / comfortable,"""it's quite comfortable... a little bit bulky, but it's not too heavy for me""",P06
+4. Hardware & Comfort,4.1 Weight & Fit,Fine / cool looking,"""they're fine... kind of cool looking""",G2a
+4. Hardware & Comfort,4.1 Weight & Fit,Novel form factor appreciated,"""just trying on a compact, small form factor glass, it's a novel experience""",P01
+4. Hardware & Comfort,4.2 Field of View,FOV too small,"""the FOV of the frames is pretty small, you have to look at the things actually""",P07
+4. Hardware & Comfort,4.2 Field of View,Have to look to side to see UI,"""I have to look slightly to the side to see all the VR stuff""",P13
+4. Hardware & Comfort,4.2 Field of View,Can't see off-center content,"""you cannot see something that is not in the center""",P11
+4. Hardware & Comfort,4.3 Technical Issues,Battery life poor,"""the hardware battery life is not the greatest""",P03
+4. Hardware & Comfort,4.3 Technical Issues,Lens restart needed,"""I had to restart the lens a couple of times""",P03
+4. Hardware & Comfort,4.3 Technical Issues,Glasses shut down early,"""glasses did shut down a little early... right before we got to our last object""",P12
+4. Hardware & Comfort,4.3 Technical Issues,Geolocation finicky,"""geolocation is always finicky""",P03
+4. Hardware & Comfort,4.3 Technical Issues,Wi-Fi dependency,Portable Wi-Fi mentioned as potential issue,P05; P10
+4. Hardware & Comfort,4.3 Technical Issues,Image/vision instability,"""the image, the vision is not that stable""",G1c
+4. Hardware & Comfort,4.4 Eye Calibration,IPD adjustment needed,"""ask people to have... the data of the distance between your eyes... improve the experience for everybody""",G1a
+5. Narrative & Storytelling,5.1 Desire for Deeper Narrative,Story potential recognized,"""I can see potential as it being a more narrative driven experience""",P03
+5. Narrative & Storytelling,5.1 Desire for Deeper Narrative,Want more storyline,"""I would love to see more storyline""",P02
+5. Narrative & Storytelling,5.1 Desire for Deeper Narrative,Current narrative too basic,"""right now it was kind of basic... you find a clue, you go. There's really not much explanation""",P03
+5. Narrative & Storytelling,5.1 Desire for Deeper Narrative,Role cards underutilized,"""I know we have these roll cards... there's supposed to be a story element""",P03
+5. Narrative & Storytelling,5.1 Desire for Deeper Narrative,Continuity between elements lacking,"""the continuity between each element... how do I know the next one is in the corner""",P14
+5. Narrative & Storytelling,5.2 Historical/Educational,Want to feel the past,"""I wanna feel what it was like to be on this street 100 years ago""",G2b
+5. Narrative & Storytelling,5.2 Historical/Educational,Like a tenement museum,"""like a tenement museum""",G2b
+5. Narrative & Storytelling,5.2 Historical/Educational,Historical overlay desired,"""overlay the historical view of the same site... rendered as it was 100 years ago""",P15
+5. Narrative & Storytelling,5.2 Historical/Educational,Archival photos expected,"""I thought through the glass you can see the archival photo of Chinatown""",P17
+5. Narrative & Storytelling,5.2 Historical/Educational,Learning through exploration,"""I love the fact that we could learn a little bit about the area""",G2a
+5. Narrative & Storytelling,5.2 Historical/Educational,Invites community to explore,"""it really invites the community and everyone to just explore more""",P02
+5. Narrative & Storytelling,5.2 Historical/Educational,Making invisible history visible,"""Chinatown has a lot of depth... this kind of immersive experience really can help you get deeper into the community""",P01
+5. Narrative & Storytelling,5.2 Historical/Educational,Translation feature valued,"""I really liked how you could just take a picture of anything and then it would tell you about it""",G2a
+5. Narrative & Storytelling,5.3 Multiplayer/Social,Multiplayer desire - intertwining stories,"""it would be really cool if we could interact in some way with the gangster and the police officer... stories intertwine""",P06
+5. Narrative & Storytelling,5.3 Multiplayer/Social,Different roles different perspectives,Different roles for different perspectives,P03; P06; G2a
+5. Narrative & Storytelling,5.3 Multiplayer/Social,Difficulty levels,"""you could have different variations of difficulty... level one, two, three""",G2a
+6. Embodiment & Presence,6.1 Sense of Presence,Felt present in the world,"""I felt very present wearing these lenses, walking through the streets""",P04
+6. Embodiment & Presence,6.1 Sense of Presence,Didn't feel like running into people,"""I didn't feel like I was going to run into them""",P04
+6. Embodiment & Presence,6.1 Sense of Presence,Embodied visualization,"""it's like embodied visualization of that process... we capture something with our eyes and retrieve something in our memory""",P15
+6. Embodiment & Presence,6.1 Sense of Presence,Bending to scan felt immersive,"""being able to actually go bend down and go like this, it felt like a very cool move to make""",P04
+6. Embodiment & Presence,6.2 Social Attention,Attracting curious pedestrians,"""the pedestrians were curious and they even came to us to ask what it is""",P15
+6. Embodiment & Presence,6.2 Social Attention,Feeling cool/special,"""people want to be different... people are like, are they famous or something?""",G2a
+6. Embodiment & Presence,6.2 Social Attention,On the leading edge,"""We're on the leading edge of something""",G2a
+6. Embodiment & Presence,6.2 Social Attention,Social sharing opportunity,"""it's not only a personal experience... it's in a social setting, you catch attention""",P15
+6. Embodiment & Presence,6.3 Connection to Physical World,AR enhances real environment,"""leverage technology in a way that helps people build deeper relationships to the physical world""",P03
+6. Embodiment & Presence,6.3 Connection to Physical World,Scavenger hunt mechanic,"""an innovative scavenger hunt... people love scavengers""",G2a
+6. Embodiment & Presence,6.3 Connection to Physical World,Like Mario in real world,"""It's like Mario in real world""",G1c
+6. Embodiment & Presence,6.3 Connection to Physical World,Photography as embodied action,Capturing clues = participation in narrative,General observation
+7. Safety & Environment,7.1 Street Safety,Safety on busier streets,"""imagine on a busier intersection... you would want some sort of prompts or safety guidelines""",P01
+7. Safety & Environment,7.1 Street Safety,Pedestrian-only street was fine,"""this was a pedestrian-only street... you can walk around pretty much simply""",P01
+7. Safety & Environment,7.2 Staff & Social,Staff presence helpful but needed,"""you still need someone to accompany me and explain""",P15
+7. Safety & Environment,7.2 Staff & Social,Staff with every user ideal,"""if everyone has a staff with him, it should be much better""",P14
+7. Safety & Environment,7.2 Staff & Social,Staff uniform suggested,"""if there are staff wearing different clothes, it will give people a hint of what they are doing""",P14
+7. Safety & Environment,7.2 Staff & Social,Pedestrian interference,"""the user will be disturbed by others during the use process""",P14
+7. Safety & Environment,7.2 Staff & Social,Staff was gracious,"""everyone is really gracious... really kind on showing stuff and patient""",P13
+8. Monetization & Pricing,8.1 Willingness to Pay,$10-15 for 10-15 min,"""10 to 15 bucks seems like as much as you can ask for""",P01
+8. Monetization & Pricing,8.1 Willingness to Pay,$10-20 for blind box,"""I'd probably say like 10 to 20 dollars""",P08
+8. Monetization & Pricing,8.1 Willingness to Pay,$15-25 for 15-30 min with others,"""$15 to $25 for it if it was like a 15 to 30 minute long experience""",P04
+8. Monetization & Pricing,8.1 Willingness to Pay,$20 baseline,$20 for current experience,P05; G2a; P16
+8. Monetization & Pricing,8.1 Willingness to Pay,$20-30 for experience,"""Probably 20 to 30 or so""",P08; P15
+8. Monetization & Pricing,8.1 Willingness to Pay,$25-30 with more content,"""even like 20, 25, 30, I'm happy to pay that""",P02
+8. Monetization & Pricing,8.1 Willingness to Pay,$30 standalone / $100+ with tour,"""If it's this experience alone, 30... combined with a tour... $100""",P17
+8. Monetization & Pricing,8.1 Willingness to Pay,$40-50 multiplayer longer,"""maybe $40, maybe $50... do a whole tour for like an hour""",P06
+8. Monetization & Pricing,8.1 Willingness to Pay,$40-50 solid UX,"""if it was a good UX though, I think it could easily charge $40, $50""",G2a
+8. Monetization & Pricing,8.1 Willingness to Pay,$150-200 full tour for tourist families,"""I would pay $150 for the tour... maybe $200 if I was a tourist""",P10
+8. Monetization & Pricing,8.1 Willingness to Pay,$200-500 education/school,"""parents with deep pockets... willing to pay between $200 and $500""",P10
+8. Monetization & Pricing,8.2 Value Drivers,Duration matters,Longer = more willing to pay,Multiple
+8. Monetization & Pricing,8.2 Value Drivers,Content depth drives value,More storyline + more objects = more value,Multiple
+8. Monetization & Pricing,8.2 Value Drivers,Multiplayer increases WTP,Willing to pay more for social experience,P06; G2a
+8. Monetization & Pricing,8.2 Value Drivers,Uniqueness / no competition,"""first one in NYC"" — no competition reference",G2a
+8. Monetization & Pricing,8.2 Value Drivers,Escape room comparison,"""$50 for escape room""",G2a
+8. Monetization & Pricing,8.2 Value Drivers,Viator tour comparison,"""$150 for city tours""",P10
+8. Monetization & Pricing,8.3 Monetization Strategy,Partnership with city tourism,"""partnered with New York City's organization of tourism""",P10
+8. Monetization & Pricing,8.3 Monetization Strategy,B2B over B2C initially,"""monetizations are going to come with co-labs with existing companies and not straight to user""",P10
+8. Monetization & Pricing,8.3 Monetization Strategy,Restaurant/business partnerships,"""we could feature you in here... incentivizes people to actually go into the store""",P04
+8. Monetization & Pricing,8.3 Monetization Strategy,Coupons/discounts post-experience,"""come back and use your card""",G2a
+8. Monetization & Pricing,8.3 Monetization Strategy,Education market,"""kids that want to use and create the experience themselves for a classroom project""",P10
+8. Monetization & Pricing,8.3 Monetization Strategy,Lower price = repeat visits,"""if you charge 20, I might be more inclined to come back and do the other track""",G2a
+9. Souvenirs & Merchandise,9.1 Physical Souvenirs,Blind boxes popular (some),"""I love blind boxes... not knowing what you're gonna get""",P08
+9. Souvenirs & Merchandise,9.1 Physical Souvenirs,Blind boxes disliked (some),"""I'm not personally"" into blind boxes",G2b
+9. Souvenirs & Merchandise,9.1 Physical Souvenirs,Keychains of collected items,"""one of the items I collected if it was like a keychain""",P08
+9. Souvenirs & Merchandise,9.1 Physical Souvenirs,Functional over decorative,"""I'm more of a fan of things that are useful""",G2b
+9. Souvenirs & Merchandise,9.1 Physical Souvenirs,Don't want trash,"""I don't need something that may be just trash later""",G2b
+9. Souvenirs & Merchandise,9.1 Physical Souvenirs,Food-based rewards,"""finishing at a dumpling house... ties cultural learning to food""",G2b
+9. Souvenirs & Merchandise,9.1 Physical Souvenirs,VIP card for local vendors,"""the souvenir could be a VIP card for all the vendors on the street... 10% off""",G2a
+9. Souvenirs & Merchandise,9.2 Digital Souvenirs,AR postcard (Web AR),"""this piece of paper... if you could with your phone... Web AR""",G2a
+9. Souvenirs & Merchandise,9.2 Digital Souvenirs,Completion badge,"""you completed this task and you get a badge""",P14
+9. Souvenirs & Merchandise,9.2 Digital Souvenirs,3D model collection,The postcard mechanic already serves as digital souvenir,General observation
+9. Souvenirs & Merchandise,9.3 Postcard Platform,3D map potential,"""if you look at the map like this, it's 3D... you could layer them up""",G2a
+9. Souvenirs & Merchandise,9.3 Postcard Platform,Tabletop AR game extension,"""AR could be tabletop games... this could be your tabletop""",G2a
+10. Cultural Significance,10.1 Heritage Value,Promoting Chinese culture,"""really good way to bring technology in and bring the culture out to the world""",P09
+10. Cultural Significance,10.1 Heritage Value,Appreciate visibility,"""really appreciate that people see this and see us and help to promote Chinese culture""",P09
+10. Cultural Significance,10.1 Heritage Value,Old town rebirth,"""Chinatown is historical... with new technology, it gives the old town a rebirth chance, a new potential""",P17
+10. Cultural Significance,10.1 Heritage Value,Personal connection,"""where my mom grew up""",P08
+10. Cultural Significance,10.2 Tourism & Community,Tourist attraction potential,"""Chinatown now thrives on tourism and whatever new experience will be an add-on""",P17
+10. Cultural Significance,10.2 Tourism & Community,Supporting local businesses,Partnership with local restaurants and bakeries,P04; G2a; G2b
+10. Cultural Significance,10.2 Tourism & Community,First of its kind in NYC,"""I'm always surprised that we are the first one in New York City""",G1c
+10. Cultural Significance,10.2 Tourism & Community,Scalable to other locations,"""I hope I can see it in more towns and more areas... Central Park or Times Square""",P04
+10. Cultural Significance,10.3 Technology as Bridge,AR connects not isolates,"""It's the right way to let this technology connect people instead of isolating people in their bubbles""",P15
+10. Cultural Significance,10.3 Technology as Bridge,Cross-cultural appeal,Non-Chinese participants also engaged and curious,General observation
+10. Cultural Significance,10.3 Technology as Bridge,Generational bridge,"""I met a little girl... she started trying out AR at the age of four. I feel like there's a generational gap""",P17
+11. Expert Perspectives,11.1 Industry Validation,Hackathon to commercial,"""learnings from hackathon teams coalescing into a potentially commercial project""",P03
+11. Expert Perspectives,11.1 Industry Validation,Tourism sector potential,"""This platform has a lot of potential, especially in the tourism sector""",P04
+11. Expert Perspectives,11.1 Industry Validation,Investment interest in Snap AR,"""AR glasses could be a big long-term opportunity""",P12
+11. Expert Perspectives,11.1 Industry Validation,Future for project,"""There is definitely a future for your project""",P06
+11. Expert Perspectives,11.1 Industry Validation,Meaningful and bold move,"""A meaningful and bold move""",P15
+11. Expert Perspectives,11.2 Technical Maturity,Dev hardware limitations accepted,"""you're working with development hardware, I get it""",P03
+11. Expert Perspectives,11.2 Technical Maturity,Tech not the main blocker,"""Technical site is not the main blocker""",P15
+11. Expert Perspectives,11.2 Technical Maturity,Content/UX is the priority,"""more about how to design the storyline of the experience""",P15
+11. Expert Perspectives,11.3 Global AR Comparison,China has more AR tourism,"""there are more than one or two... a lot in China""",G1c
+11. Expert Perspectives,11.3 Global AR Comparison,America behind,"""America doesn't really know""",G1c
+11. Expert Perspectives,11.3 Global AR Comparison,Europe starting with ARVUE,"""ARVUE is coming... Brussels""",G1a
+11. Expert Perspectives,11.3 Global AR Comparison,Germany Aston 1827,"""my first outdoor AR experience was in Germany""",G1a
+11. Expert Perspectives,11.3 Global AR Comparison,Xiaohongshu examples,Red pocket games / Mario-like coin collecting,G1c
+12. Promotional Materials,12.1 Poster Feedback,Too fashionable / AI-looking,"""I think it's too fashionable""",P14
+12. Promotional Materials,12.1 Poster Feedback,Feels AI generated,"""this feels very AI generated""",P14
+12. Promotional Materials,12.1 Poster Feedback,Doesn't match experience,"""it's like a cover of a Roman holiday magazine""",P14
+12. Promotional Materials,12.1 Poster Feedback,Keep glasses + real Chinatown bg,Keep the glasses image but change background to real Chinatown,P14
+12. Promotional Materials,12.1 Poster Feedback,AR is based on reality,"""AR is based on reality... over is on reality""",P14
+12. Promotional Materials,12.2 Video vs Reality Gap,Video more compact and exciting,"""The video will be more compact and expand some interesting points""",P14
+12. Promotional Materials,12.2 Video vs Reality Gap,Tricked by video,"""I was tricked by the video... then on the scene, in big trouble""",P14
+12. Promotional Materials,12.2 Video vs Reality Gap,Video sets higher expectations,Videos set expectations higher than current experience delivers,P14

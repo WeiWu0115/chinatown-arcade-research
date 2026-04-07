@@ -1,0 +1,416 @@
+{
+  "file": "DJI_20250915042056_0116_D",
+  "text": " Can you first tell us your name and what do you do? OK. Hi, my name is Saul Pena. I'm an XR developer. I'm currently working for Supernatural. It's a VR fitness app. How was the overall experience for you? I really enjoyed it. I had a lot of fun. And can you talk about the foods and the baths, what you like and what you don't like? Very specific. Yeah, I really like the directions. We walk quite a little bit in the neighborhood. And I like that. So I can see how this can expand as an AR experience. Also, I really like the interaction. I think it's a very intuitive way of getting the pictures. I guess one thing I would point out that wasn't as great was because I had this in my hand. So it kind of got a little bit in the way trying to take pictures. Maybe we could hold it in a liner or something, or like a badge. So you don't have to hold it in your hand. But overall, I really liked it. A couple of the clues were a little bit tricky. Oh, for example, one of the signs, the object didn't look like the sign. I was thinking it would look like the sign. It was the, oh, this one, the hip thing. I was expecting a sign to appear. And then I saw this avacos. Not avacos. You could read about the stories. And then you would probably get a better idea. It probably makes sense. Any other thing you think that we definitely should have done? Maybe add some trying to feedback after you take the picture. Because I would do the hand interaction. But I wasn't sure if it was working or doing anything. I would do the motion. And then I would wait a few seconds and see if the object would appear in front of me. And then if it didn't, I just kept trying. So I wasn't sure if I was doing something right or not. And any other pro tip for us in order for us to really monetize from this project? What do you think you really need to do in order to make it into a monetization? Monetization? I mean, it would be really cool if you can find a way to make it a multiplayer experience. Because we were in groups of three. So it would be really cool if we could interact in some way with the gangster and the police officer. And somehow, our stories intertwine in some way. I think that would make it really interesting. People would want to come with their friends so they can play each different roles. And how much do you think we should charge for this experience? Oh, I don't know. Maybe if you can, I actually don't know. Just a gun turn. Full fire. If you guys are able to make it multiplayer and make it last a little bit longer, maybe like $40, maybe $50. Yeah, and do a whole tour for like an hour or half an hour. Do you feel comfortable wearing this? Yeah, I think it's quite comfortable. It is a little bit bulky, but it's not too heavy for me. But it's probably different per person, per person. Any last words for our project or to the neighborhood? I really liked it. I encourage you guys to keep going. I think there is definitely a future for your project. Thank you so much. Thank you.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "Can you first tell us your name and what do you do?"
+    },
+    {
+      "start": 3.0,
+      "end": 4.24,
+      "text": "OK."
+    },
+    {
+      "start": 4.24,
+      "end": 6.4,
+      "text": "Hi, my name is Saul Pena."
+    },
+    {
+      "start": 6.4,
+      "end": 8.32,
+      "text": "I'm an XR developer."
+    },
+    {
+      "start": 8.32,
+      "end": 10.56,
+      "text": "I'm currently working for Supernatural."
+    },
+    {
+      "start": 10.56,
+      "end": 13.76,
+      "text": "It's a VR fitness app."
+    },
+    {
+      "start": 13.76,
+      "end": 16.4,
+      "text": "How was the overall experience for you?"
+    },
+    {
+      "start": 16.4,
+      "end": 17.400000000000002,
+      "text": "I really enjoyed it."
+    },
+    {
+      "start": 17.400000000000002,
+      "end": 18.96,
+      "text": "I had a lot of fun."
+    },
+    {
+      "start": 18.96,
+      "end": 21.16,
+      "text": "And can you talk about the foods and the baths,"
+    },
+    {
+      "start": 21.16,
+      "end": 23.16,
+      "text": "what you like and what you don't like?"
+    },
+    {
+      "start": 23.16,
+      "end": 24.96,
+      "text": "Very specific."
+    },
+    {
+      "start": 24.96,
+      "end": 28.96,
+      "text": "Yeah, I really like the directions."
+    },
+    {
+      "start": 28.96,
+      "end": 31.400000000000002,
+      "text": "We walk quite a little bit in the neighborhood."
+    },
+    {
+      "start": 31.400000000000002,
+      "end": 33.76,
+      "text": "And I like that."
+    },
+    {
+      "start": 33.76,
+      "end": 38.760000000000005,
+      "text": "So I can see how this can expand as an AR experience."
+    },
+    {
+      "start": 38.760000000000005,
+      "end": 40.36,
+      "text": "Also, I really like the interaction."
+    },
+    {
+      "start": 40.36,
+      "end": 43.480000000000004,
+      "text": "I think it's a very intuitive way of getting the pictures."
+    },
+    {
+      "start": 46.519999999999996,
+      "end": 49.88,
+      "text": "I guess one thing I would point out that wasn't as great"
+    },
+    {
+      "start": 49.88,
+      "end": 52.24,
+      "text": "was because I had this in my hand."
+    },
+    {
+      "start": 52.24,
+      "end": 54.56,
+      "text": "So it kind of got a little bit in the way"
+    },
+    {
+      "start": 54.56,
+      "end": 57.480000000000004,
+      "text": "trying to take pictures."
+    },
+    {
+      "start": 57.48,
+      "end": 61.279999999999994,
+      "text": "Maybe we could hold it in a liner or something,"
+    },
+    {
+      "start": 61.279999999999994,
+      "end": 62.239999999999995,
+      "text": "or like a badge."
+    },
+    {
+      "start": 62.239999999999995,
+      "end": 65.6,
+      "text": "So you don't have to hold it in your hand."
+    },
+    {
+      "start": 65.6,
+      "end": 68.8,
+      "text": "But overall, I really liked it."
+    },
+    {
+      "start": 68.8,
+      "end": 71.2,
+      "text": "A couple of the clues were a little bit tricky."
+    },
+    {
+      "start": 75.36,
+      "end": 78.47999999999999,
+      "text": "Oh, for example, one of the signs, the object"
+    },
+    {
+      "start": 78.47999999999999,
+      "end": 79.67999999999999,
+      "text": "didn't look like the sign."
+    },
+    {
+      "start": 79.67999999999999,
+      "end": 82.44,
+      "text": "I was thinking it would look like the sign."
+    },
+    {
+      "start": 82.44,
+      "end": 87.88,
+      "text": "It was the, oh, this one, the hip thing."
+    },
+    {
+      "start": 87.88,
+      "end": 90.0,
+      "text": "I was expecting a sign to appear."
+    },
+    {
+      "start": 90.0,
+      "end": 93.67999999999999,
+      "text": "And then I saw this avacos."
+    },
+    {
+      "start": 93.67999999999999,
+      "end": 94.67999999999999,
+      "text": "Not avacos."
+    },
+    {
+      "start": 94.67999999999999,
+      "end": 96.32,
+      "text": "You could read about the stories."
+    },
+    {
+      "start": 96.32,
+      "end": 98.84,
+      "text": "And then you would probably get a better idea."
+    },
+    {
+      "start": 98.84,
+      "end": 101.44,
+      "text": "It probably makes sense."
+    },
+    {
+      "start": 101.44,
+      "end": 103.16,
+      "text": "Any other thing you think that we definitely"
+    },
+    {
+      "start": 103.16,
+      "end": 105.47999999999999,
+      "text": "should have done?"
+    },
+    {
+      "start": 105.47999999999999,
+      "end": 108.84,
+      "text": "Maybe add some trying to feedback"
+    },
+    {
+      "start": 108.84,
+      "end": 111.0,
+      "text": "after you take the picture."
+    },
+    {
+      "start": 111.0,
+      "end": 114.04,
+      "text": "Because I would do the hand interaction."
+    },
+    {
+      "start": 114.04,
+      "end": 117.44,
+      "text": "But I wasn't sure if it was working or doing anything."
+    },
+    {
+      "start": 117.44,
+      "end": 118.72,
+      "text": "I would do the motion."
+    },
+    {
+      "start": 118.72,
+      "end": 120.2,
+      "text": "And then I would wait a few seconds"
+    },
+    {
+      "start": 120.2,
+      "end": 122.8,
+      "text": "and see if the object would appear in front of me."
+    },
+    {
+      "start": 122.8,
+      "end": 125.68,
+      "text": "And then if it didn't, I just kept trying."
+    },
+    {
+      "start": 125.68,
+      "end": 129.76,
+      "text": "So I wasn't sure if I was doing something right or not."
+    },
+    {
+      "start": 129.76,
+      "end": 135.12,
+      "text": "And any other pro tip for us in order for us to really monetize"
+    },
+    {
+      "start": 135.12,
+      "end": 136.08,
+      "text": "from this project?"
+    },
+    {
+      "start": 136.08,
+      "end": 137.56,
+      "text": "What do you think you really need"
+    },
+    {
+      "start": 138.36,
+      "end": 141.32,
+      "text": "to do in order to make it into a monetization?"
+    },
+    {
+      "start": 141.32,
+      "end": 142.44,
+      "text": "Monetization?"
+    },
+    {
+      "start": 149.24,
+      "end": 151.2,
+      "text": "I mean, it would be really cool if you"
+    },
+    {
+      "start": 151.2,
+      "end": 155.0,
+      "text": "can find a way to make it a multiplayer experience."
+    },
+    {
+      "start": 155.0,
+      "end": 156.76,
+      "text": "Because we were in groups of three."
+    },
+    {
+      "start": 156.76,
+      "end": 159.32,
+      "text": "So it would be really cool if we could interact in some way"
+    },
+    {
+      "start": 159.32,
+      "end": 162.32,
+      "text": "with the gangster and the police officer."
+    },
+    {
+      "start": 162.32,
+      "end": 166.04,
+      "text": "And somehow, our stories intertwine in some way."
+    },
+    {
+      "start": 166.04,
+      "end": 168.16,
+      "text": "I think that would make it really interesting."
+    },
+    {
+      "start": 168.16,
+      "end": 170.0,
+      "text": "People would want to come with their friends"
+    },
+    {
+      "start": 170.0,
+      "end": 172.35999999999999,
+      "text": "so they can play each different roles."
+    },
+    {
+      "start": 172.35999999999999,
+      "end": 173.79999999999998,
+      "text": "And how much do you think we should"
+    },
+    {
+      "start": 173.79999999999998,
+      "end": 176.35999999999999,
+      "text": "charge for this experience?"
+    },
+    {
+      "start": 176.35999999999999,
+      "end": 181.48,
+      "text": "Oh, I don't know."
+    },
+    {
+      "start": 181.48,
+      "end": 187.88,
+      "text": "Maybe if you can, I actually don't know."
+    },
+    {
+      "start": 187.88,
+      "end": 189.35999999999999,
+      "text": "Just a gun turn."
+    },
+    {
+      "start": 189.35999999999999,
+      "end": 191.28,
+      "text": "Full fire."
+    },
+    {
+      "start": 191.28,
+      "end": 194.68,
+      "text": "If you guys are able to make it multiplayer"
+    },
+    {
+      "start": 194.72,
+      "end": 199.4,
+      "text": "and make it last a little bit longer, maybe like $40, maybe"
+    },
+    {
+      "start": 199.4,
+      "end": 201.92000000000002,
+      "text": "$50."
+    },
+    {
+      "start": 201.92000000000002,
+      "end": 206.48000000000002,
+      "text": "Yeah, and do a whole tour for like an hour or half an hour."
+    },
+    {
+      "start": 206.48000000000002,
+      "end": 208.88,
+      "text": "Do you feel comfortable wearing this?"
+    },
+    {
+      "start": 208.88,
+      "end": 210.68,
+      "text": "Yeah, I think it's quite comfortable."
+    },
+    {
+      "start": 210.68,
+      "end": 214.32,
+      "text": "It is a little bit bulky, but it's not too heavy for me."
+    },
+    {
+      "start": 214.32,
+      "end": 217.76000000000002,
+      "text": "But it's probably different per person, per person."
+    },
+    {
+      "start": 217.76000000000002,
+      "end": 221.48000000000002,
+      "text": "Any last words for our project or to the neighborhood?"
+    },
+    {
+      "start": 221.48000000000002,
+      "end": 222.56,
+      "text": "I really liked it."
+    },
+    {
+      "start": 222.56,
+      "end": 224.12,
+      "text": "I encourage you guys to keep going."
+    },
+    {
+      "start": 224.6,
+      "end": 227.48000000000002,
+      "text": "I think there is definitely a future for your project."
+    },
+    {
+      "start": 227.48000000000002,
+      "end": 229.08,
+      "text": "Thank you so much."
+    },
+    {
+      "start": 229.08,
+      "end": 230.64000000000001,
+      "text": "Thank you."
+    }
+  ]
+}
